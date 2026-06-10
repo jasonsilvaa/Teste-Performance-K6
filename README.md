@@ -101,7 +101,16 @@ Os relatórios HTML são gerados automaticamente ao final de cada execução via
 - `load-report.html` — relatório do Load Test
 - `stress-report.html` — relatório do Stress Test
 
-> **Screenshots dos resultados:** adicione aqui os prints do relatório após executar os testes.
+### Load Test — Dashboard Web
+
+**Overview — VUs, Request Rate e Duração**
+![Load Test Overview](assets/load-test-overview.png)
+
+**Timings — Request Duration, Waiting, Connecting e Receiving**
+![Load Test Timings](assets/load-test-timings.png)
+
+**Summary — Métricas consolidadas**
+![Load Test Summary](assets/load-test-summary.png)
 
 ---
 
